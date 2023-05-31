@@ -8,3 +8,10 @@ public:
 	}
 };
 
+class deiviredClass : public baseClass {
+public:
+	void perkenalan() {
+		cout << "Halo saya Function dari deriviredClass";
+
+	}
+};
