@@ -22,4 +22,4 @@ public:
 	}
 };
 
-c
+class pelajar 
