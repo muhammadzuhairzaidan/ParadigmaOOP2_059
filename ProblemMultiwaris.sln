@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProblemMultiwaris", "ProblemMultiwaris\ProblemMultiwaris.vcxproj", "{0C25E0D8-97DE-4236-9CAE-FA25B5C27380}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solvemultiwaris", "solvemultiwaris\solvemultiwaris.vcxproj", "{5438AC70-288C-451F-B9C1-E66211CD87D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{0C25E0D8-97DE-4236-9CAE-FA25B5C27380}.Release|x64.Build.0 = Release|x64
 		{0C25E0D8-97DE-4236-9CAE-FA25B5C27380}.Release|x86.ActiveCfg = Release|Win32
 		{0C25E0D8-97DE-4236-9CAE-FA25B5C27380}.Release|x86.Build.0 = Release|Win32
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Debug|x64.ActiveCfg = Debug|x64
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Debug|x64.Build.0 = Debug|x64
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Debug|x86.Build.0 = Debug|Win32
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Release|x64.ActiveCfg = Release|x64
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Release|x64.Build.0 = Release|x64
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Release|x86.ActiveCfg = Release|Win32
+		{5438AC70-288C-451F-B9C1-E66211CD87D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
